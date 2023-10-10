@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tudor Ioan Fărcaș</h1>
 <h3 align="center">A student in 3rd year at TUCN</h3>
+<img align="right" alt ="Coding" width="500" src="https://dribbble.com/shots/4171367-Coding-Freak">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-m-a-dude&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-a-dude" /> </p>
 
