@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/i_am_aa_dude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_aa_dude" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tudor-ioan-fărcaș" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tudor ioan fărcaș" height="30" width="40" /></a>
-<a href="https://instagram.com/tudor.i.farcas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tudor.i.farcas" height="30" width="40" /></a>
+<a href="https://twitter.com/i_am_aa_dude" target="blank"><img align="center" src="https://github.com/I-m-a-Dude/I-m-a-Dude/blob/main/Toto/twitter.svg" alt="i_am_aa_dude" height="60" width="70" /></a>
+<a href="https://linkedin.com/in/tudor-ioan-fărcaș" target="blank"><img align="center" src="https://github.com/I-m-a-Dude/I-m-a-Dude/blob/main/Toto/linked.svg" alt="tudor ioan fărcaș" height="60" width="70" /></a>
+<a href="https://instagram.com/tudor.i.farcas" target="blank"><img align="center" src="https://github.com/I-m-a-Dude/I-m-a-Dude/blob/main/Toto/insta.svg" alt="tudor.i.farcas" height="60" width="70" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-m-a-dude&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-a-dude" /> </p>
