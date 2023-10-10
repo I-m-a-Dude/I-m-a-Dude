@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tudor Ioan Fărcaș</h1>
 <h3 align="center">A student in 3rd year at TUCN</h3>
-<img align="right" alt ="Coding" width="500" src="https://dribbble.com/shots/10744223-Lofi-Loop-Animation?utm_source=Clipboard_Shot&utm_campaign=xLinaInverse&utm_content=Lofi%20Loop%20Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=xLinaInverse&utm_content=Lofi%20Loop%20Animation&utm_medium=Social_Share">
+<img align="right" alt ="Coding" width="500" src="https://cdn.dribbble.com/users/2660258/screenshots/10744223/gif_lofi.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-m-a-dude&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-a-dude" /> </p>
