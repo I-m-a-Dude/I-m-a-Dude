@@ -19,6 +19,8 @@
 
 ---
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_am_aa_dude" target="blank"><img align="center" src="https://github.com/I-m-a-Dude/I-m-a-Dude/blob/main/Toto/twitter.svg" alt="i_am_aa_dude" height="60" width="70" /></a>
@@ -29,6 +31,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-m-a-dude&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-a-dude" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-m-a-dude" alt="i-m-a-dude" /></a> </p>
+
+<br>
+
+---
+
+<br>
 
 <h3 align="left">👨‍💻Languages and Tools:</h3>
 <br>
