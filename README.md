@@ -83,9 +83,20 @@
 
 <br>
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <p><img src="https://github-readme-stats.vercel.app/api?username=i-m-a-dude&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="i-m-a-dude" /></p>
+  </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-m-a-dude&layout=compact&theme=vision-friendly-dark" alt="i-m-a-dude" /></p>
+  </div>
+  <div style="flex: 1;">
+    <a style="text-align: right;" href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-a-dude&layout=compact&theme=vision-friendly-dark" alt="i-m-a-dude">
+    </a>
+  </div>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=i-m-a-dude&show_icons=true&locale=en" alt="i-m-a-dude" /></p>
 
-<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-m-a-dude&" alt="i-m-a-dude" /></p>
+
