@@ -45,27 +45,35 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="40" height="40">
   </a>
+  &nbsp
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40">
   </a>
+  &nbsp
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" style="margin-right: 50px;">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40">
   </a>
+  &nbsp
   <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40">
   </a>
+  &nbsp
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
   </a>
+  &nbsp
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40">
   </a>
+  &nbsp
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40">
   </a>
+  &nbsp
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
   </a>
+  &nbsp
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40">
   </a>
