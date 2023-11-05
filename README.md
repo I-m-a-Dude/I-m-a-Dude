@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Arduino and FPGA's**
 
-- 🌱 I’m currently learning **Python, Elm, Haskell**
+- 🌱 I’m currently learning **Python, Elm, Haskell, Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/I-m-a-Dude/CV](https://github.com/I-m-a-Dude/CV)
 
@@ -17,7 +17,7 @@
 
 <br>
 
----
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <br>
 
----
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 <br>
 
@@ -101,7 +101,9 @@
 <div align="center">
 <a href="https://github.com/i-m-a-dude">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-m-a-dude&theme=2077" height="180em" /> &nbsp
+  <br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-m-a-dude&theme=2077" height="180em" /> &nbsp
+  <br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-m-a-dude&theme=2077" height="180em" /> &nbsp
 
   <br>
