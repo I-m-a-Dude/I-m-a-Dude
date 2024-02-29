@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on **Arduino and FPGA's**
+- 🔭 I’m currently working on
 
-- 🌱 I’m currently learning **Python, Elm, Haskell, Kotlin**
+- 🌱 I’m currently learning 
 
 - 👨‍💻 All of my projects are available at [https://github.com/I-m-a-Dude/CV](https://github.com/I-m-a-Dude/CV)
 
-- ⚡ Fun fact **I love to cook, relax and photography**
+- ⚡ Fun fact **I love to cook, travel and photography**
 
 <br>
 
@@ -95,34 +95,5 @@
 </div>
 
 <br>
-
-<div> <a href="https://github.com/i-m-a-dude" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-
-<div style="display: flex; justify-content: space-between; margin: 70px;">
-  <a href="https://github.com/i-m-a-dude">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-m-a-dude&theme=2077" alt="GitHub Stats" height="180em" />
-  </a>
-  
-  <a href="https://github.com/i-m-a-dude">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-m-a-dude&theme=2077" alt="Most Used Languages" height="180em" />
-  </a>
-
-  <a href="https://github.com/i-m-a-dude">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-m-a-dude&theme=2077" alt="Repositories per Language" height="180em" />
-  </a>
-</div>
-
-<div style="display: flex; justify-content: space-between; margin: 70px;">
-  <a href="https://github.com/i-m-a-dude">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i-m-a-dude&theme=2077" alt="Productive Time" height="180em" />
-  </a>
-
-  <a href="https://github.com/i-m-a-dude">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-m-a-dude&theme=2077" alt="Profile Details" height="180em" />
-  </a>
-</div>
-
-
 
 
