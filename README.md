@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning 
 
-- 👨‍💻 All of my projects are available at [https://github.com/I-m-a-Dude/CV](https://github.com/I-m-a-Dude/CV)
+- 👨‍💻 All of my projects are available at 
 
 - ⚡ Fun fact **I love to cook, travel and photography**
 
