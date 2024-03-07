@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/i_am_aa_dude" target="blank"><img align="center" src="https://github.com/I-m-a-Dude/I-m-a-Dude/blob/main/Toto/twitter.svg" alt="i_am_aa_dude" height="60" width="70" /></a>
+
 <a href="https://linkedin.com/in/tudor-ioan-fărcaș" target="blank"><img align="center" src="https://github.com/I-m-a-Dude/I-m-a-Dude/blob/main/Toto/linked.svg" alt="tudor ioan fărcaș" height="60" width="70" /></a>
-<a href="https://instagram.com/tudor.i.farcas" target="blank"><img align="center" src="https://github.com/I-m-a-Dude/I-m-a-Dude/blob/main/Toto/insta.svg" alt="tudor.i.farcas" height="60" width="70" /></a>
+
 </p>
 
 
@@ -39,60 +39,46 @@
 <br>
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="40" height="40">
-  </a>
-  &nbsp
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40">
-  </a>
-  &nbsp
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" style="margin-right: 50px;">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40">
-  </a>
-  &nbsp
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 50px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40">
-  </a>
-  &nbsp
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
-  </a>
-  &nbsp
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40">
-  </a>
-  &nbsp
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40">
-  </a>
-  &nbsp
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
-  </a>
-  &nbsp
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 50px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40">
-  </a>
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" height="40" alt="elm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+</div>
+
 </p>
 
 
 
 <br>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=i-m-a-dude&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="i-m-a-dude" /></p>
-  </div>
-  <div style="flex: 1; margin-right: 10px;">
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-m-a-dude&layout=compact&theme=vision-friendly-dark" alt="i-m-a-dude" /></p>
-  </div>
-  <div style="flex: 1;">
-    <a style="text-align: right;" href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-a-dude&layout=compact&theme=vision-friendly-dark" alt="i-m-a-dude">
-    </a>
-  </div>
-</div>
+<img src="https://raw.githubusercontent.com/I-m-a-Dude/I-m-a-Dude/output/snake.svg" alt="Snake animation" />
+
 
 <br>
 
