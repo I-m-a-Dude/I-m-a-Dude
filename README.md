@@ -1,17 +1,18 @@
 <h1 align="center">Hello there 👋, I'm Tudor Ioan Fărcaș</h1>
 <h3 align="center">A student in 3rd year at TUCN</h3>
 <img align="right" width="475" src="https://static.tumblr.com/17703a1b0ebd00c10d60b691376be5e3/gwe9tuq/8MMp8v0eg/tumblr_static_3sbomsnx6nk04ssw0g0gowc0c_640_v2.gif">
+
 <br>
+
 <br>
 
 
 
+- 🔭 I’m currently working on school projects
 
-- 🔭 I’m currently working on
+- 🌱 I’m currently learning more about App and Web Dev.
 
-- 🌱 I’m currently learning 
-
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at https://github.com/I-m-a-Dude/projects
 
 - ⚡ Fun fact **I love to cook, travel and photography**
 
@@ -77,7 +78,11 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/I-m-a-Dude/I-m-a-Dude/output/snake.svg" alt="Snake animation" />
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify%29)](https://open.spotify.com/playlist/42gWB8MsBgXKpMoTIhuQR4?si=8869307fe2954cae)
+
+
 
 
 <br>
