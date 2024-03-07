@@ -80,7 +80,6 @@
 
 </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify%29)](https://open.spotify.com/playlist/42gWB8MsBgXKpMoTIhuQR4?si=8869307fe2954cae)
 
 
 
