@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Tudor Ioan Fărcaș</h1>
-<h3 align="center">A student in 3rd year at TUCN</h3>
+<h3 align="center">A student at TUCN</h3>
 <img align="right" width="475" src="https://static.tumblr.com/17703a1b0ebd00c10d60b691376be5e3/gwe9tuq/8MMp8v0eg/tumblr_static_3sbomsnx6nk04ssw0g0gowc0c_640_v2.gif">
 
 <br>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on school projects
 
-- 🌱 I’m currently learning more about App and Web Dev.
+- 🌱 I’m currently learning more about App and Web Dev and Machine Learning.
 
 - 👨‍💻 All of my projects are available at https://github.com/I-m-a-Dude/projects
 
