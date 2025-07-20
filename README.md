@@ -29,7 +29,6 @@ I'm **Tudor Ioan Fărcaș**, a passionate Computer Science student at **Technica
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" title="Kotlin" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="Haskell" title="Haskell" />
 </div>
 
 ### Frameworks & Tools
@@ -73,13 +72,6 @@ I'm **Tudor Ioan Fărcaș**, a passionate Computer Science student at **Technica
 
 ---
 
-## 🎵 Currently Listening To
-<div align="center">
-  <img src="https://now-playing-cards.vercel.app/now-playing/q?uid=21onfpseysszwtpnhd2en2ybi&theme=extract" alt="Now Playing" />
-</div>
-
----
-
 ## 🌟 Beyond Code
 
 When I'm not working with AI models or coding, I enjoy:
@@ -110,6 +102,3 @@ When I'm not working with AI models or coding, I enjoy:
   <img src="https://komarev.com/ghpvc/?username=I-m-a-Dude&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
